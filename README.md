@@ -107,6 +107,11 @@ ServerName www.unix.org
 times does the word "Vishta" show up in the short story? How many times does the
 word "Kuno" show up in the short story?
 
+Word Counts:
+Vishta (as spelled above) = 0
+Vashti (as spelled in 'the_machine_stops.txt' document) = 31
+Kuno = 25
+
 ## Stretch Goals
 
 * Play Tetris in Emacs.
